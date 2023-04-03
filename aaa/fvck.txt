@@ -1,0 +1,17 @@
+hp_button = F8
+sp_button = F9
+hp_percent = 50
+sp_percent = 20
+gp_button = 
+panacea_button = 
+aspd_button = 
+gloom_button = 
+mayap_button = 1
+ahk_list = F1:mc:1,
+ap_delay = 10
+autobuff_delay = 10
+autobuff_read_delay = 10
+spam_delay = 1
+chain1 = ;::!::!::!::!::!
+songchain = ;:!:!:!:!:!:!
+

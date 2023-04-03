@@ -1,0 +1,12 @@
+Please read carefully.
+
+Always run as admin the install file after you boot up your PC before using the tool
+
+If a red prompt shows, just click on install anyway.
+
+In case you got detected, just follow these steps:
+1. run as admin the uninstall file located at the rok driver folder.
+2. Navigate to C:\Windows\System32\drivers\ in the file explorer then look and delete this following files if found:
+makubex.sys
+3. Restart your PC.
+4. Wait for my updates.
